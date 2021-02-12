@@ -20,7 +20,7 @@ you will be redirected to "127.0.0.1.800n" where n='1,2....'.
 
 ### Netlify Deployment
 
-SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-filter-app.netlify.app/)
+SpaceX app is deployed on **Netlify** [Spacex-Filter-App](https://spacex-filter-app.netlify.app/)
 
 ## UI And Filter Implementation
 

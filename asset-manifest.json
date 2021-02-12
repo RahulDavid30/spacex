@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spacex/static/css/main.73666c76.chunk.css",
+    "main.css": "/spacex/static/css/main.bf27d322.chunk.css",
     "main.js": "/spacex/static/js/main.d6688f89.chunk.js",
     "main.js.map": "/spacex/static/js/main.d6688f89.chunk.js.map",
     "runtime-main.js": "/spacex/static/js/runtime-main.55198c38.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/spacex/service-worker.js",
     "service-worker.js.map": "/spacex/service-worker.js.map",
     "static/css/2.150d169a.chunk.css.map": "/spacex/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.73666c76.chunk.css.map": "/spacex/static/css/main.73666c76.chunk.css.map",
+    "static/css/main.bf27d322.chunk.css.map": "/spacex/static/css/main.bf27d322.chunk.css.map",
     "static/js/2.0da23f86.chunk.js.LICENSE.txt": "/spacex/static/js/2.0da23f86.chunk.js.LICENSE.txt",
     "static/media/loadRocket.03d83b7e.gif": "/spacex/static/media/loadRocket.03d83b7e.gif"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.55198c38.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.0da23f86.chunk.js",
-    "static/css/main.73666c76.chunk.css",
+    "static/css/main.bf27d322.chunk.css",
     "static/js/main.d6688f89.chunk.js"
   ]
 }
